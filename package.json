@@ -1,0 +1,24 @@
+{
+  "name": "phantomJS_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webfrontzhifei/phantomJS_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webfrontzhifei/phantomJS_test/issues"
+  },
+  "homepage": "https://github.com/webfrontzhifei/phantomJS_test#readme",
+  "dependencies": {
+    "phantom": "^6.0.3",
+    "phantomjs": "^2.1.7"
+  }
+}
